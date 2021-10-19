@@ -43,5 +43,6 @@ Here are some ideas to get you started:
 </div>
 
 <br />
+<br />
 
 ![](https://activity-graph.herokuapp.com/graph?username=Jessom&theme=github)
