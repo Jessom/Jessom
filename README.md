@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<br />
 
 ### GitHub Stats
 <div align="center">
@@ -42,7 +41,5 @@ Here are some ideas to get you started:
     </a>
 </div>
 
-<br />
-<br />
 
 ![](https://activity-graph.herokuapp.com/graph?username=Jessom&theme=github)
