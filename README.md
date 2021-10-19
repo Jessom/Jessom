@@ -30,9 +30,11 @@ Here are some ideas to get you started:
 
 
 <div>
+    
     ![](https://github-readme-stats.vercel.app/api?username=Jessom&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=[%22contribs%22])
     
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessom&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230)
     
     ![](https://activity-graph.herokuapp.com/graph?username=Jessom&theme=github)
+    
 </div>
