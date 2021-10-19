@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+<br />
+
 ### GitHub Stats
 <div align="center">
     <a href="https://github.com/wangrongding">
@@ -39,5 +41,7 @@ Here are some ideas to get you started:
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessom&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230" alt="Rongding's github stats"/>
     </a>
 </div>
+
+<br />
 
 ![](https://activity-graph.herokuapp.com/graph?username=Jessom&theme=github)
