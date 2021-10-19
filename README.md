@@ -28,11 +28,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB)
 ![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
-
+<br />
+<br />
 ### GitHub Stats
 <div align="center">
     <a href="https://github.com/wangrongding">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jessom&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=[%22contribs%22]" alt="Rongding's github stats"/>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jessom&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="Rongding's github stats"/>
     </a>
     <a href="https://github.com/wangrongding">
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessom&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230" alt="Rongding's github stats"/>
