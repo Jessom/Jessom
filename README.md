@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
 ![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB)
 ![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=flutter&logoColor=0091ea)
 
 <br />
 <br />
